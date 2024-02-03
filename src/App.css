@@ -1,0 +1,57 @@
+.page{
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+}
+aside{
+  text-align: center;
+  border-right: 1px solid;
+  height: 100%;
+  background-color: rgb(66, 185, 74);
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li{
+  font-size: 24px;
+  padding: 10px 0px;
+}
+
+.btns{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+button{
+  margin: 20px;
+  font-size: 24px;
+  padding: 12px 24px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.area{
+
+}
+.playerArea{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  column-gap: 20px;
+  row-gap: 20px;
+}
+.playerCard{
+  height: 350px;
+  border: 1px solid;
+  border-radius: 12px;
+  padding: 10px;
+}
+img{
+  width: 50%;
+}
+.img_area{
+  text-align: center;
+}
+.playerName{
+  text-align: center;
+}

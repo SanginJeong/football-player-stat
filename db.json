@@ -1,0 +1,373 @@
+{
+  "players": [
+    {
+      "name": "리야드 마레즈",
+      "team": "알 아흘리",
+      "goal": 99,
+      "assist": 84,
+      "steady": 8.5,
+      "img": "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F87%2F202212131144188651.jpg" ,
+      "totalScore": 305.7
+    },
+    {
+      "name": "알렉시스 산체스",
+      "team": "인터밀란",
+      "goal": 152,
+      "assist": 82,
+      "steady": 6.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F74%2F20100608180844681.jpg",
+      "totalScore": 311.1
+    },
+    {
+      "name": "라힘 스털링",
+      "team": "첼시",
+      "goal": 120,
+      "assist": 63,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F35%2F201806181408068521.jpg",
+      "totalScore": 305
+    },
+    {
+      "name": "앙토니 마르시알",
+      "team": "맨유",
+      "goal": 74,
+      "assist": 33,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F140%2F202212151152091551.jpg",
+      "totalScore": 162.7
+    },
+    {
+      "name": "사디오 마네",
+      "team": "알 나스르",
+      "goal": 158,
+      "assist": 71,
+      "steady": 9,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F54%2F201806181436067911.jpg",
+      "totalScore": 370.2
+    },
+    {
+      "name": "에덴 아자르",
+      "team": "은퇴",
+      "goal": 125,
+      "assist": 92,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F107%2F201806181159193671.png",
+      "totalScore": 330
+    },
+    {
+      "name": "쿠티뉴",
+      "team": "아스톤 빌라",
+      "goal": 80,
+      "assist": 56,
+      "steady": 7.5,
+      "img" :"https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F99%2F201806141738187161.png" ,
+      "totalScore": 206.6
+    },
+    {
+      "name": "페드로",
+      "team": "라치오",
+      "goal": 106,
+      "assist": 61,
+      "steady": 7,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F138%2F20100608180248141.jpg",
+      "totalScore": 256.8
+    },
+    {
+      "name": "윌리안",
+      "team": "풀햄",
+      "goal": 68,
+      "assist": 87,
+      "steady": 7,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F184%2F201806141821554241.png",
+      "totalScore": 230.6
+    },
+    {
+      "name": "윌프레드 자하",
+      "team": "갈라타사라이",
+      "goal": 90,
+      "assist": 47,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F165%2F201502031007058561.jpg",
+      "totalScore": 191.5
+    },
+    {
+      "name": "모하메드 살라",
+      "team": "리버풀",
+      "goal": 197,
+      "assist": 94,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F12%2F201806151648234301.jpg",
+      "totalScore": 453.3
+    },
+    {
+      "name": "르로이 자네",
+      "team": "뮌헨",
+      "goal": 65,
+      "assist": 66,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F175%2F20221005210356771.png",
+      "totalScore": 197.2
+    },
+    {
+      "name": "제르단 샤키리",
+      "team": "은퇴",
+      "goal": 66,
+      "assist": 62,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F183%2F201806151652433481.jpg",
+      "totalScore": 176.6
+    },
+    {
+      "name": "제시 린가드",
+      "team": "노팅엄",
+      "goal": 40,
+      "assist": 19,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F131%2F201806181550182781.png",
+      "totalScore": 104.2
+    },
+    {
+      "name": "마커스 래시포드",
+      "team": "맨유",
+      "goal": 80,
+      "assist": 39,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F178%2F201806181557512641.png",
+      "totalScore": 192.2
+    },
+    {
+      "name": "히샬리송",
+      "team": "토트넘",
+      "goal": 65,
+      "assist": 24,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F82%2F202210052201126731.png",
+      "totalScore": 164.5
+    },
+    {
+      "name": "루카스 모우라",
+      "team": "상파울루",
+      "goal": 55,
+      "assist": 40,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F97%2F202105261600026861.png",
+      "totalScore": 134
+    },
+    {
+      "name": "디오구조타",
+      "team": "리버풀",
+      "goal": 93,
+      "assist": 28,
+      "steady": 7,
+      "img" : "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FY0fH5hj6h3pt-4K4Fgc8JpYtzaMyJB1jb5VrjjcmG3hApQDl6Ju3jctbjkk6b5z7dKF1mrxQ8sZAbtVge2s7iA.webp&type=fff208_208",
+      "totalScore": 182.9
+    },
+    {
+      "name": "그릴리쉬",
+      "team": "맨시티",
+      "goal": 45,
+      "assist": 46,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F157%2F202108131806193621.png",
+      "totalScore": 147.5
+    },
+    {
+      "name": "필 포든",
+      "team": "맨시티",
+      "goal": 40,
+      "assist": 25,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F175%2F202210042018068101.png",
+      "totalScore": 118
+    },
+    {
+      "name": "부카요 사카",
+      "team": "아스날",
+      "goal": 38,
+      "assist": 32,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F82%2F202201060838276621.png",
+      "totalScore": 103.6
+    },
+    {
+      "name": "페란 토레스",
+      "team": "바르셀로나",
+      "goal": 30,
+      "assist": 18,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F33%2F202210052025594961.png",
+      "totalScore": 78.5
+    },
+    {
+      "name": "마르코 로이스",
+      "team": "도르트문트",
+      "goal": 158,
+      "assist": 91,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F9%2F201806151616167701.jpg",
+      "totalScore": 359.8
+    },
+    {
+      "name": "그나브리",
+      "team": "뮌헨",
+      "goal": 82,
+      "assist": 33,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F118%2F202210052102078731.png",
+      "totalScore": 216.4
+    },
+    {
+      "name": "포르스베리",
+      "team": "라이프치히",
+      "goal": 91,
+      "assist": 67,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F41%2F201806151924391831.jpg",
+      "totalScore": 260.1
+    },
+    {
+      "name": "토르강 아자르",
+      "team": "안더레흐트",
+      "goal": 63,
+      "assist": 73,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F73%2F201806181228105441.png",
+      "totalScore": 206
+    },
+    {
+      "name": "율리안 브란트",
+      "team": "도르트문트",
+      "goal": 64,
+      "assist": 61,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F91%2F20180615155745991.jpg",
+      "totalScore": 171.2
+    },
+    {
+      "name": "카이 하베르츠",
+      "team": "아스날",
+      "goal": 59,
+      "assist": 29,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F166%2F202107110743563511.png",
+      "totalScore": 152.7
+    },
+    {
+      "name": "제이든 산초",
+      "team": "도르트문트",
+      "goal": 47,
+      "assist": 52,
+      "steady": 7,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F171%2F202107210903179391.png",
+      "totalScore": 123.9
+    },
+    {
+      "name": "무시알라",
+      "team": "뮌헨",
+      "goal": 30,
+      "assist": 18,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F147%2F202210052057162201.png",
+      "totalScore": 81.1
+    },
+    {
+      "name": "호날두",
+      "team": "알 나스르",
+      "goal": 532,
+      "assist": 149,
+      "steady": 9.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F12%2F201806151658222561.jpg",
+      "totalScore": 1133.6
+    },
+    {
+      "name": "리오넬 메시",
+      "team": "마이애미",
+      "goal": 497,
+      "assist": 223,
+      "steady": 9.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F3%2F201806141425238771.jpg",
+      "totalScore": 1074.1
+    },
+    {
+      "name": "네이마르",
+      "team": "알 힐랄",
+      "goal": 150,
+      "assist": 85,
+      "steady": 9,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F79%2F201806151717128271.jpg",
+      "totalScore": 322.5
+    },
+    {
+      "name": "비니시우스",
+      "team": "레알마드리드",
+      "goal": 48,
+      "assist": 28,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzExMDlfNTgg%2FMDAxNjk5NTM0MDkzNjY1.rkIWqzIFzKSEtomXdOV864mmyTIkuHWtRaTctfaD-Zwg.RFjyXhNEbNd83ouO7jEhsWMpEohjA-0aV3rf7bo5T38g.PNG.rbdp12%2Fimage.png&type=a340",
+      "totalScore": 124.4
+    },
+    {
+      "name": "이스코",
+      "team": "베티스",
+      "goal": 56,
+      "assist": 53,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F86%2F201806151549554771.jpg",
+      "totalScore": 146.8
+    },
+    {
+      "name": "아센시오",
+      "team": "파리생제르망",
+      "goal": 51,
+      "assist": 39,
+      "steady": 7.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F26%2F201806151340291271.jpg",
+      "totalScore": 120.3
+    },
+    {
+      "name": "그리즈만",
+      "team": "ATM",
+      "goal": 191,
+      "assist": 81,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F173%2F201806181823235711.jpg",
+      "totalScore": 413.1
+    },
+    {
+      "name": "디마리아",
+      "team": "벤피카",
+      "goal": 99,
+      "assist": 155,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F77%2F201806181021325651.jpg",
+      "totalScore": 323.7
+    },
+    {
+      "name": "베일",
+      "team": "은퇴",
+      "goal": 142,
+      "assist": 70,
+      "steady": 8,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F167%2F202105261615586601.png",
+      "totalScore": 306.4
+    },
+    {
+      "name": "손흥민",
+      "team": "토트넘",
+      "goal": 156,
+      "assist": 65,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2FprofileImg%2Ft%2F599681d1-9648-492d-9344-cf2f11f5233a.png",
+      "totalScore": 346.1
+    },
+    {
+      "name": "음바페",
+      "team": "PSG",
+      "goal": 183,
+      "assist": 60,
+      "steady": 8.5,
+      "img" : "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F96%2F20180618182028991.jpg",
+      "totalScore": 394.5
+    }
+  ]
+}
